@@ -1,0 +1,7 @@
+git pull origin main --allow-unrelated-histories
+git add .
+git commit -m "merge fix"
+git push origin main
+
+
+
